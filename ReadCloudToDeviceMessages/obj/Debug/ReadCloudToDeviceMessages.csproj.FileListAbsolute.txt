@@ -1,8 +1,0 @@
-c:\users\rajeev\documents\visual studio 2017\Projects\IOTHUBDEMO\ReadCloudToDeviceMessages\obj\Debug\ReadCloudToDeviceMessages.csprojResolveAssemblyReference.cache
-c:\users\rajeev\documents\visual studio 2017\Projects\IOTHUBDEMO\ReadCloudToDeviceMessages\bin\Debug\ReadCloudToDeviceMessages.exe.config
-c:\users\rajeev\documents\visual studio 2017\Projects\IOTHUBDEMO\ReadCloudToDeviceMessages\bin\Debug\ReadCloudToDeviceMessages.exe
-c:\users\rajeev\documents\visual studio 2017\Projects\IOTHUBDEMO\ReadCloudToDeviceMessages\bin\Debug\ReadCloudToDeviceMessages.pdb
-c:\users\rajeev\documents\visual studio 2017\Projects\IOTHUBDEMO\ReadCloudToDeviceMessages\bin\Debug\Microsoft.ServiceBus.dll
-c:\users\rajeev\documents\visual studio 2017\Projects\IOTHUBDEMO\ReadCloudToDeviceMessages\bin\Debug\Microsoft.ServiceBus.xml
-c:\users\rajeev\documents\visual studio 2017\Projects\IOTHUBDEMO\ReadCloudToDeviceMessages\obj\Debug\ReadCloudToDeviceMessages.exe
-c:\users\rajeev\documents\visual studio 2017\Projects\IOTHUBDEMO\ReadCloudToDeviceMessages\obj\Debug\ReadCloudToDeviceMessages.pdb
